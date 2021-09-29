@@ -10,8 +10,22 @@ $ docker-compose up -d
 $ docker exec -it <container-name> bash
 ```
 
+##### Example 
+
+```bash
+$ docker exec -it mongo-container bash
+```
+
 ```bash
 $ mongo admin -u root -p rootpassword
+
+$ mongosh admin -u root -p andreshincapier
+```
+
+##### Example
+
+```bash
+$ mongosh admin -u root -p andreshincapier
 ```
 
 ### Mongo shell
