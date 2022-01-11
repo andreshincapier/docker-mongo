@@ -1,4 +1,4 @@
-#### Start from terminal
+#### Start from terminal.
 
 ```bash
 $ docker-compose up -d
@@ -52,4 +52,4 @@ db.version()
 ```
 
 ## Use
-Browse to  connect `mongodb://YourUsername:YourPasswordHere@127.0.0.1:27017/your-database-name`
+Browse to  connect `mongodb://YourUsername:YourPasswordHere@127.0.0.1:27017/your-database-name`.
